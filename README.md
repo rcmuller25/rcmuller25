@@ -20,11 +20,6 @@ I'm passionate about leveraging technology to solve real-world problems, particu
 ### 🌟 Featured Projects
 🏥 **[Rural Health Mobile App](link-to-repo)** - Cross-platform offline-first React Native app for managing mobile health appointments and patient data in rural South Africa  
 📋 **[Medical Referral PWA](link-to-repo)** - Progressive Web App with real-time updates and offline capabilities for medical referrals  
-🛒 **[E-commerce Platform](link-to-repo)** - Full-stack Django e-commerce solution with shopping cart functionality  
-
-### 📊 GitHub Stats
-![Romano's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect
 - 💼 [Portfolio](https://romano-muller-portfolio.windsurf.build/fullstack_portfolio.html)
