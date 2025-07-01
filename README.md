@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Romano Muller 👋
 
-<!--
-**rcmuller25/rcmuller25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🩺 Healthcare Tech Enthusiast | 💻 Aspiring Full-Stack Developer | 🌍 Making Technology Accessible
 
-Here are some ideas to get you started:
+I'm passionate about leveraging technology to solve real-world problems, particularly in healthcare and community development. Currently building innovative solutions for rural healthcare access in South Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on
+- **Healthcare Mobile Solutions**: Cross-platform offline-first applications for rural medical services
+- **Progressive Web Applications**: Real-time medical referral systems with offline capabilities
+- **Full-Stack Development**: E-commerce platforms and interactive web applications
+
+### 🛠️ Tech Stack
+**Frontend**: React, React Native, JavaScript, HTML5, CSS3  
+**Backend**: Python, Django, Node.js  
+**Mobile**: React Native, Expo  
+**Database**: Firebase, PostgreSQL, SQLite  
+**Tools**: Git, VS Code, Figma  
+**Cloud**: Google Firebase, PWA deployment
+
+### 🌟 Featured Projects
+🏥 **[Rural Health Mobile App](link-to-repo)** - Cross-platform offline-first React Native app for managing mobile health appointments and patient data in rural South Africa  
+📋 **[Medical Referral PWA](link-to-repo)** - Progressive Web App with real-time updates and offline capabilities for medical referrals  
+🛒 **[E-commerce Platform](link-to-repo)** - Full-stack Django e-commerce solution with shopping cart functionality  
+
+### 📊 GitHub Stats
+![Romano's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+### 🤝 Let's Connect
+- 💼 [Portfolio](https://romano-muller-portfolio.windsurf.build/fullstack_portfolio.html)
+- 📧 [Email](mailto:rcmuller25@gmail.com)
+- 💬 Open to collaboration on healthcare tech projects
+- 🎯 Actively seeking full-stack developer opportunities
+
+---
+*"Technology should serve humanity, especially those who need it most."*
