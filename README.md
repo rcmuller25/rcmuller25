@@ -18,11 +18,17 @@ I'm passionate about leveraging technology to solve real-world problems, particu
 **Cloud**: Google Firebase, PWA deployment
 
 ### 🌟 Featured Projects
-🏥 **[Rural Health Mobile App](link-to-repo)** - Cross-platform offline-first React Native app for managing mobile health appointments and patient data in rural South Africa  
-📋 **[Medical Referral PWA](link-to-repo)** - Progressive Web App with real-time updates and offline capabilities for medical referrals  
+🏥 **[Rural Health Mobile App](https://github.com/rcmuller25/healthcare-mobile-app)** - Cross-platform offline-first React Native app for managing mobile health appointments and patient data in rural South Africa  
+📋 **[Medical Referral PWA](https://github.com/rcmuller25/medical-referral-pwa)** - Progressive Web App with real-time updates and offline capabilities for medical referrals  
+🛒 **[E-commerce Platform](https://github.com/rcmuller25/ecommerce-platform)** - Full-stack Django e-commerce solution with shopping cart functionality  
+🦸 **[Superhero Profiles App](https://github.com/rcmuller25/superhero-profiles)** - Interactive web application with search and filter functionality  
+
+### 📊 GitHub Stats
+![Romano's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcmuller25&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmuller25&layout=compact&theme=radical)
 
 ### 🤝 Let's Connect
-- 💼 [Portfolio](https://romano-muller-portfolio.windsurf.build/fullstack_portfolio.html)
+- 💼 [Portfolio](https://rcmuller25.github.io) - *Hosted right here on GitHub!*
 - 📧 [Email](mailto:rcmuller25@gmail.com)
 - 💬 Open to collaboration on healthcare tech projects
 - 🎯 Actively seeking full-stack developer opportunities
