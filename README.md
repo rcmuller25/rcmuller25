@@ -1,37 +1,53 @@
 # Hi there, I'm Romano Muller 👋
 
-## 🩺 Healthcare Tech Enthusiast | 💻 Aspiring Full-Stack Developer | 🌍 Making Technology Accessible
+## 🚀 My Coding Journey
+From healthcare to code, one milestone at a time
 
-I'm passionate about leveraging technology to solve real-world problems, particularly in healthcare and community development. Currently building innovative solutions for rural healthcare access in South Africa.
+## 💻 Featured Projects
 
-### 🔭 What I'm working on
-- **Healthcare Mobile Solutions**: Cross-platform offline-first applications for rural medical services
-- **Progressive Web Applications**: Real-time medical referral systems with offline capabilities
-- **Full-Stack Development**: E-commerce platforms and interactive web applications
+### Primary Healthcare Mobile System
+**Technologies**: React Native, Expo, TypeScript, SQL  
+A comprehensive mobile application for managing primary healthcare outreach programs with offline data collection and synchronization.  
+[View on GitHub](https://github.com/rcmuller25/Primos---Primary-Heatlhcare-Mobile-Outreach-System)
 
-### 🛠️ Tech Stack
-**Frontend**: React, React Native, JavaScript, HTML5, CSS3  
-**Backend**: Python, Django, Node.js  
-**Mobile**: React Native, Expo  
-**Database**: Firebase, PostgreSQL, SQLite  
-**Tools**: Git, VS Code, Figma  
-**Cloud**: Google Firebase, PWA deployment
+### Medical Referral PWA
+**Technologies**: Next.js 14, TypeScript, Firebase, Tailwind CSS, GenKit AI  
+A Progressive Web Application for managing medical referrals with real-time updates and AI-powered features for healthcare coordination.  
+[View on GitHub](https://github.com/rcmuller25/opd_referrals)
 
-### 🌟 Featured Projects
-🏥 **[Rural Health Mobile App](https://github.com/rcmuller25/healthcare-mobile-app)** - Cross-platform offline-first React Native app for managing mobile health appointments and patient data in rural South Africa  
-📋 **[Medical Referral PWA](https://github.com/rcmuller25/medical-referral-pwa)** - Progressive Web App with real-time updates and offline capabilities for medical referrals  
-🛒 **[E-commerce Platform](https://github.com/rcmuller25/ecommerce-platform)** - Full-stack Django e-commerce solution with shopping cart functionality  
-🦸 **[Superhero Profiles App](https://github.com/rcmuller25/superhero-profiles)** - Interactive web application with search and filter functionality  
+### Pine City Zoo
+**Technologies**: HTML5, CSS3, Responsive Design  
+A responsive website for Pine City Zoo featuring animal information, visiting hours, and events.  
+[View on GitHub](https://github.com/rcmuller25/rcmuller25.github.io)
 
-### 📊 GitHub Stats
-![Romano's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcmuller25&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcmuller25&layout=compact&theme=radical)
+### Superhero App
+**Technologies**: HTML5, CSS3, JavaScript  
+Interactive web application showcasing superhero profiles with search and filter functionality.  
+[View on GitHub](https://github.com/rcmuller25/rcmuller25)
 
-### 🤝 Let's Connect
-- 💼 [Portfolio](https://rcmuller25.github.io) - *Hosted right here on GitHub!*
-- 📧 [Email](mailto:rcmuller25@gmail.com)
-- 💬 Open to collaboration on healthcare tech projects
-- 🎯 Actively seeking full-stack developer opportunities
+### Coming Soon
+- **Contact Manager**: A phone book application for managing contacts with search and filtering capabilities.
+- **Calculator App**: A functional calculator with a clean, modern interface.
 
----
+## 🛠️ Technical Skills
+
+### Core Programming
+- **C#**: Object-oriented programming fundamentals, desktop application development, clean architecture
+- **HTML5 & CSS**: Advanced features, responsive design patterns, modern CSS techniques
+- **JavaScript/TypeScript**: Modern ES6+ features, asynchronous programming, type systems
+
+### Development Tools
+- **Version Control**: Git, GitHub
+- **IDEs**: VS Code
+
+### Currently Learning
+- Advanced React patterns
+- System architecture
+- Performance optimization
+- Development workflows (code organization, debugging, technology integration)
+
+## 📫 Connect
+- [GitHub](https://github.com/rcmuller25)
+- [Portfolio](https://rcmuller25.github.io)
+
 *"Technology should serve humanity, especially those who need it most."*
